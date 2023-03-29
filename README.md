@@ -9,7 +9,7 @@ distintos que estão se comunicando entre si;
 
   i. Cada usuário deve enviar 2, 4 e 6 pacotes para os outros dois
 usuários.
-  ii. As mensagens que devem ser enviadas são:
+ii. As mensagens que devem ser enviadas são:
   1. Obra na BR-101;
   2. Obra na PE-015;
   3. Acidente Avenida Norte;
