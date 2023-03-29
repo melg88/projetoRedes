@@ -7,7 +7,7 @@ simétrico (AES, DES e RC4) e assimétrico (ECC, RSA, ECDH);
 segurança em redes numa aplicação do tipo P2P entre três usuários
 distintos que estão se comunicando entre si;
 
-  i. Cada usuário deve enviar 2, 4 e 6 pacotes para os outros dois
+i. Cada usuário deve enviar 2, 4 e 6 pacotes para os outros dois
 usuários.
 ii. As mensagens que devem ser enviadas são:
   1. Obra na BR-101;
