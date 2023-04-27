@@ -1,6 +1,7 @@
-🐾🌐 Testando o Projeto 2 - Redes e Computadores 🖥️🐈
-💻 IDE recomendada:
-Utilize o Visual Studio Code (VSCode) para o desenvolvimento e teste deste projeto.
+🐾🌐 Testando o Projeto 2 - Redes e Computadores 🖥️🐈 
+
+💻 IDE utilizada:
+Visual Studio Code (VSCode) para o desenvolvimento e teste deste projeto.
 
 📂 Pastas:
 O projeto está dividido em duas pastas: Client e Server.
