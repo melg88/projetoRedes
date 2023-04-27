@@ -16,11 +16,10 @@ Tudo sobre a pasta Client:
 Após executar o Server/Server.py é necessário executar o Client/Client.py.
 Na variável request já existem exemplos de requisições para alguns arquivos que já existem no servidor. O formato da requisição deve seguir o seguinte padrão:
 
-python
-Copy code
 '[qualquerNomeQueDesejar': '/[PastaQueOArquivoEstaLocalizado]/[arquivoRequisitado]',
-[proximasRequisicoes]
-Lembrando que para obter sucesso, o status HTTP 200 OK deve ser retornado e o arquivo deve estar salvo em uma das pastas do Server e ser chamado corretamente na requisição.
+
+
+Lembrando que para obter sucesso, o status HTTP 200 OK deve ser retornado e o arquivo deve estar salvo em uma das pastas do Server e ser chamado corretamente na variável Request.
 
 🐱 Conclusão
 Com essas dicas você poderá testar o projeto corretamente.
