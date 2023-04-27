@@ -3,8 +3,21 @@
 💻 IDE utilizada:
 Visual Studio Code (VSCode) para o desenvolvimento e teste deste projeto.
 
-📂 Pastas:
+📂 Estrutura de Pastas:
 O projeto está dividido em duas pastas: Client e Server.
+
+Recomendações para execução: 
+Utilizar o terminal para rodar o Server 
+Comandos: 
+cd Server 
+python Server.py
+
+Para rodar o Client pode ser feito da mesma forma:
+Comandos:
+cd Client
+python Client.py 
+Ou Clicando em cima do arquivo e acionando o Run Code 
+
 
 Tudo sobre a pasta Server:
 Na pasta Server/Docs ou Server/Photos 📁 é onde você deve inserir as fotos ou documentos/arquivos pesados conforme desejar.
