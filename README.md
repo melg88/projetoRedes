@@ -1,6 +1,8 @@
-# Projeto Redes 
+# Projeto Redes
 
 ## Projeto 1: Segurança numa Arquitetura P2P:
+Para ver nossa implementação basta alterar a branch para projeto-redes1, segue o link https://github.com/melg88/projetoRedes/tree/projeto-redes1
+
   a. Cada Equipe (Preencher Tabela) receberá um algoritmo criptográfico
 simétrico (AES, DES e RC4) e assimétrico (ECC, RSA, ECDH);
   b. Esses algoritmos devem ser utilizados para garantir os pilares de
@@ -29,6 +31,8 @@ cada cenário de envio de pacotes (2, 4 e 6), tais como:
   iv. Tempo total Gasto.
   
 ## Projeto 2: Servidor Web (implemente o protocolo padronizado HTTP/1.1)
+
+Para ver nossa implementação basta alterar a branch para projeto-parte2, segue o link https://github.com/melg88/projetoRedes/tree/projeto-parte2
 - TCP
   a. Deverá ser desenvolvido um servidor WEB;
   i. Deverá implementar o protocolo HTTP/1.1, apenas o método
